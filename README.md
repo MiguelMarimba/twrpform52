@@ -1,6 +1,6 @@
 # TWRP for M52 5g
 
-this version of TWRP that i do, i do for Samsung Galaxy M52 5g
+this version of TWRP I made for Samsung Galaxy M52 5g
 
 i can't upload twrp here, so i upload in google drive:
 
